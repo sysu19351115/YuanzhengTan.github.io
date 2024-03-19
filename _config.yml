@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yuanzheng Tan"
-  avatar           : # "./images/Yuanzheng.jpeg"
+  avatar           : "./images/author_tyz.png"
   bio              : "Day by day, one must make progress."
   location         : "Location"
   employer         :
