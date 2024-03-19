@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year undergraduate student from [Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes computer network, cloud-edge computing, drone swarm, video transmission and analysis, and robot grasping.
+I'm a doctoral student from [Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes edge computing, multi-drone system, video analysis, learning robotic, and reinforcement learning.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof. Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) of [Smart Internet Group](https://smartinternet.group/) from [Shenzhen International Graduate School
+]([[https://cs.pku.edu.cn/]](https://www.sigs.tsinghua.edu.cn/en/)), Tsinghua University.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Yuanzheng's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
 
